@@ -5,7 +5,7 @@
 透過實作一個網路店家的介紹網站版面，練習整體網頁結構與互動效果。
 
 ## 預覽
-
+https://aeunicronntd.github.io/BakeShop/
 
 ## 使用技術
 - HTML
